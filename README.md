@@ -2,4 +2,4 @@
 
 My first Data 115 practice 
 
-This repo correspond to Data 115 HW5 question 1
+This repo corresponds to Data 115 HW5 question 1
